@@ -4,6 +4,6 @@ You are supporting a hotel with a project aimed to increase revenue from their r
 
 Create a report that covers the following: <br>
 
--> What factors affect whether customers cancel their booking?
--> Are cancellations more likely during weekends?
+-> What factors affect whether customers cancel their booking?<br>
+-> Are cancellations more likely during weekends?<br>
 -> Which general recommendations for the hotel can you make?
